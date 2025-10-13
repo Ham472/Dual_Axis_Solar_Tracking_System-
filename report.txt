@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\Administrator\Desktop\HAM\trackking solar\gerber\trackking solar-F_Cu.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\HAM\trackking solar\gerber\trackking solar-B_Cu.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\HAM\trackking solar\gerber\trackking solar-F_Paste.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\HAM\trackking solar\gerber\trackking solar-B_Paste.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\HAM\trackking solar\gerber\trackking solar-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\HAM\trackking solar\gerber\trackking solar-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\HAM\trackking solar\gerber\trackking solar-F_Mask.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\HAM\trackking solar\gerber\trackking solar-B_Mask.gbr'.
+Plotted to 'C:\Users\Administrator\Desktop\HAM\trackking solar\gerber\trackking solar-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Administrator\Desktop\HAM\trackking solar\gerber\trackking solar-job.gbrjob'.
+Info: Done.
